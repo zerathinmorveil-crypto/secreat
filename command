@@ -3,3 +3,4 @@ composer require laravel/breeze --dev
 php artisan breeze:install
 composer require jeroennoten/laravel-adminlte
 php artisan adminlte:install
+composer require barryvdh/laravel-dompdf
